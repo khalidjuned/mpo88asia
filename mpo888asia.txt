@@ -354,7 +354,7 @@
   "itemListElement": [{
    "@type": "ListItem",
    "position": 1,
-   "name": "SLOT88 GACOR",
+   "name": "MPO88ASIA GACOR",
    "item": "https://2400motorcycles.pt/brand/motul/"
   }, {
    "@type": "ListItem",
@@ -1740,7 +1740,7 @@ if (clientloggerIsEnabled) {
         </div>
 
         <div class="wt-mt-xs-1 wt-mb-xs-1">
-            <h1>MPO88ASIA: Daftar Situs Slot Gacor Pragmatic dan Slot88 yang Terverifikasi</h1>
+            <h1>MPO88ASIA: Daftar Situs Slot Gacor Pragmatic dan MPO88ASIA yang Terverifikasi</h1>
         </div>
         <!-- WRAPPER UTAMA -->
 <div class="shura">
@@ -2666,7 +2666,7 @@ if (clientloggerIsEnabled) {
         <cite>- bocil kematian</cite>
     </blockquote>
     <div class="seller-name__detail" data-spm="seller">
-      <a href="#" target="_self">MPO88ASIA: Daftar Situs Slot Gacor Pragmatic dan Slot88 yang Terverifikasi</a>
+      <a href="#" target="_self">MPO88ASIA: Daftar Situs Slot Gacor Pragmatic dan MPO88ASIA yang Terverifikasi</a>
     </div>
   </div>
 </div>
